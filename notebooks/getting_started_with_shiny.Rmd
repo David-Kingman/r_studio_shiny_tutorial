@@ -64,10 +64,6 @@ iframe {
 }
 ```
 
-**Explain other ways of structuring shiny app code**
-**Sort out sizing of built-in apps/put border around them**
-**Check how all apps display**
-
 ---
 
 ## 1. How to build a Shiny App
